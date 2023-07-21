@@ -1,7 +1,10 @@
-# PixTer
+# KodKod
 
 An Svelte + Django implementation to achieve an instagram Copy
 
+## Why KodKod?
+
+We love this animal from our Country, hence the name for this experiment.
 
 ## Contributors
 
